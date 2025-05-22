@@ -1,0 +1,224 @@
+header {
+  background-color: #0a2643;
+  color: gold;
+  padding: 20px;
+  text-align: center;
+  font-family: "Cinzel Decorative", cursive;
+  font-size: 1em;
+  text-shadow: 10px 10px 10px #000;
+  letter-spacing: 3px;
+  border-radius: 5px;
+}
+
+h1 {
+  animation: float 2s ease-in-out infinite;
+}
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+nav a{
+   background-color: #0a2643;
+   color: rgb(250, 250, 248);
+   padding: 20px;
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 1em;
+   border-radius: 10px;
+}
+
+main{
+   background-color: #0a2643;
+   color: rgb(161, 161, 95);
+   padding: 20px;
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 1em;
+   border-radius: 5px;
+}
+
+section{
+   background-color: #0a2643;
+   color: rgb(9, 9, 0);
+   padding: 20px;
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 1em;
+   border-radius: 5px;
+}
+
+h2{
+   color: gold;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.maisons {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: center;
+} 
+
+.Gryffondor {
+  background-image: url("images/parchemin.png");
+  background-size: 220% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  width : 30%;
+}
+
+.Serpentard {
+  background-image: url("images/parchemin.png");
+  background-size: 220% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  width : 30%;
+}
+
+.Serdaigle {
+  background-image: url("images/parchemin.png");
+  background-size: 220% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  width : 30%;
+}
+
+.Poufsouffle {
+  background-image: url("images/parchemin.png");
+  background-size: 220% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  width : 30%;
+}
+
+.emblème{
+  width: 200px;
+  height: 200px;
+  object-fit: contain; 
+  align-items: center;
+}
+
+.perso_ligne_1 {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: center;
+} 
+
+.Harry_Potter{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+  
+}
+
+.Hermione_Granger{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Ron_Weasley{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Drago_Malfoy{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+
+.perso_ligne_2 {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: center;
+} 
+
+.Albus_Dumbledore{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Severus_Rogue{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Minerva_McGonagall{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Hagrid_Rubeus{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+
+.perso_ligne_3 {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: center;
+} 
+
+.Lord_Voldemort{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Sirius_Black{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Bellatrix_Lestrange{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Dobby{
+  background-color: rgb(148, 123, 61);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.perso{
+  width: 200px;
+  height: 200px;
+  object-fit: contain; 
+  align-items: center;
+}
