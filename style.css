@@ -222,3 +222,55 @@ h2{
   object-fit: contain; 
   align-items: center;
 }
+
+
+
+
+/* === Version mobile (responsive) === */
+@media (max-width: 768px) {
+  nav a {
+    display: block;
+    margin: 10px auto;
+    width: 90%;
+    padding: 15px;
+    font-size: 1.2em;
+  }
+
+  .maisons,
+  .perso_ligne_1,
+  .perso_ligne_2,
+  .perso_ligne_3 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .Gryffondor,
+  .Serpentard,
+  .Serdaigle,
+  .Poufsouffle,
+  .Harry_Potter,
+  .Hermione_Granger,
+  .Ron_Weasley,
+  .Drago_Malfoy,
+  .Albus_Dumbledore,
+  .Severus_Rogue,
+  .Minerva_McGonagall,
+  .Hagrid_Rubeus,
+  .Lord_Voldemort,
+  .Sirius_Black,
+  .Bellatrix_Lestrange,
+  .Dobby {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .emblème,
+  .perso {
+    width: 100%;
+    height: auto;
+  }
+
+  header, main, section {
+    padding: 10px;
+  }
+}
