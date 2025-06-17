@@ -116,7 +116,7 @@ h2{
 } 
 
 .Harry_Potter{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
@@ -124,21 +124,21 @@ h2{
 }
 
 .Hermione_Granger{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Ron_Weasley{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Drago_Malfoy{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
@@ -153,28 +153,28 @@ h2{
 } 
 
 .Albus_Dumbledore{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Severus_Rogue{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Minerva_McGonagall{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Hagrid_Rubeus{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
@@ -189,28 +189,35 @@ h2{
 } 
 
 .Lord_Voldemort{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Sirius_Black{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Bellatrix_Lestrange{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
 }
 
 .Dobby{
-  background-color: rgb(148, 123, 61);
+  background-color: rgb(236, 216, 167);
+  border-radius: 20px;
+  padding: 20px;
+  width : 30%;
+}
+
+.Dolores_Ombrage{
+  background-color: rgb(236, 216, 167);
   border-radius: 20px;
   padding: 20px;
   width : 30%;
@@ -222,6 +229,27 @@ h2{
   object-fit: contain; 
   align-items: center;
 }
+
+.baguettes_ligne_1 {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: left;
+} 
+
+.baguettes_ligne_2 {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: left;
+} 
+
+.baguettes_ligne_3 {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  text-align: left;
+} 
 
 
 
